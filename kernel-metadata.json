@@ -1,0 +1,17 @@
+{
+  "id": "andyathsid/study-group-demo",
+  "id_no": 82099911,
+  "title": "Study Group Demo",
+  "code_file": "study-group-demo.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
